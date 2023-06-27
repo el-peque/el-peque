@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://styles.redditmedia.com/t5_2tww0/styles/communityIcon_o7izg9vb3ih61.jpg"  />
+<img align="left" height="150" src="https://styles.redditmedia.com/t5_2tww0/styles/communityIcon_o7izg9vb3ih61.jpg"  />
 
 ###
 
@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<h4 align="left">- 🔭 I’m working as a backend developer<br>- 📚 Currently studying machine learning<br>- ⚡ In my free time I like to learn languages</h4>
+<p align="left">- 🔭 I’m working as a backend developer<br>- 📚 Currently studying machine learning<br>- ⚡ In my free time I like to learn languages</p>
 
 ###
 
