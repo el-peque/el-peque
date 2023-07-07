@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 I’m working as a backend developer<br>- 📚 Currently studying machine learning<br>- ⚡ In my free time I like to learn languages (Currently: Norwegian)</p>
+<p align="left">- 🔭 I’m working as a backend developer<br>- 📚 Currently studying machine learning<br>- ⚡ In my free time I like to learn languages (rn: Norwegian)</p>
 
 ###
 
